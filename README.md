@@ -15,7 +15,7 @@ Feel free to explore each section to learn more about me and my work.
 
 ## Preview
 
-To view the live version of this website, visit [https://abhigyansrivastav.netlify.app.com](abhigyansrivastav.netlify.app).
+To view the live version of this website, visit [https://abhigyansrivastav.netlify.app/](abhigyansrivastav.netlify.app).
 
 ## Hosting
 
